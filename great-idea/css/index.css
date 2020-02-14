@@ -144,7 +144,7 @@ section .navlinks{
 	display: flex;
 	position: fixed;
 	background-color: white;
-	width: 55%;
+	width: 55.5%;
 	height: 60px;
 	justify-content: space-between;
 	align-items: center;
@@ -296,7 +296,7 @@ justify-content: center;
 	background-color: rgb(199, 199, 228);
 	margin-bottom: 15px;
 	
-	border: 2px solid black;
+	border: 2px dotted black;
 	padding: 5px;
 	font-size: 20px;
 	width: 49%;
