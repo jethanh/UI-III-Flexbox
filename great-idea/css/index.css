@@ -287,7 +287,7 @@ justify-content: center;
 	flex-direction: row;
 	flex-wrap: wrap;
 	width: 100%;
-	justify-content: space-evenly;
+	justify-content: space-between;
 	
 }
 
@@ -297,7 +297,6 @@ justify-content: center;
 	margin-bottom: 15px;
 	flex-direction: column;
 	justify-content: space-between;
-	flex: 0 40%;
 	border: 2px solid black;
 	padding: 5px;
 }
