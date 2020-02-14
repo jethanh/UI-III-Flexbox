@@ -288,6 +288,7 @@ justify-content: center;
 	flex-wrap: wrap;
 	width: 100%;
 	justify-content: space-between;
+	height: 100%;
 	
 }
 
@@ -295,11 +296,13 @@ justify-content: center;
 	display: flex;
 	background-color: rgb(199, 199, 228);
 	margin-bottom: 15px;
-	
+	justify-content: space-around;
 	border: 2px dotted black;
 	padding: 5px;
-	font-size: 20px;
+	font-size: 24px;
 	width: 49%;
+	border-radius: 5px;
+	box-shadow: 5px 10px #e2e2e2;
 }
 
 
