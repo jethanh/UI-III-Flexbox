@@ -300,11 +300,12 @@ div .catchphrase {
 	background-color: rgb(199, 199, 228);
 	margin-bottom: 15px;
 	justify-content: space-around;
-	border: 2px dotted black;
+	border-bottom: 6px inset #4b508f;
+	border-left: 6px inset #7e86e9;
+	border-radius: 20px;
 	padding: 5px;
 	font-size: 24px;
 	width: 49%;
-	border-radius: 5px;
 	box-shadow: 5px 10px 10px #8d8d8d;
 }
 
@@ -314,9 +315,13 @@ div .catchphrase {
 .servbuttons {
 	padding: 10px 24px;
 	width: 50%;
-	background-color: rgb(231, 231, 231);
+	background-color: rgb(255, 255, 255);
 	margin: 2px;
-	border: 2px solid black;
+	border: 2px inset rgb(118, 132, 211);
+	border-radius: 10px;
+	box-shadow: 2px 5px 5px #8d8d8d;
+	font-style: comic;
+
 	
 }
 
