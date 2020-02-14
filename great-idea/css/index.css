@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5 {
 
 body{
 	margin: 0 23% 23% 23%;
+	background-color: rgb(255, 255, 255);
 } 
 
 
@@ -160,6 +161,7 @@ div .catchphrase {
 .headerimg {
 	width: 100%;
 	height: 90%;
+	margin-left: 20%;
 }
 
 .leftmain {
